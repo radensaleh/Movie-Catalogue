@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Search Movie UI/UX</string>
+    <string name="now_playing">Lecture en cours</string>
+    <string name="up_coming">Prochaine</string>
+    <string name="search_movie">Film de recherche</string>
+    <string name="detail_movie">Film de détail</string>
+
+    <string name="search">Chercher</string>
+    <string name="title">Titre</string>
+    <string name="tagline">Étiquette</string>
+    <string name="rating">Évaluation</string>
+    <string name="duration">Durée</string>
+    <string name="language">La langue</string>
+    <string name="release">Libération</string>
+    <string name="budget">Budgéter</string>
+    <string name="overview">Vue densemble</string>
+    <string name="change_language_settings">Changer de langue</string>
+
+    <string name="failed">Échoué</string>
+    <string name="title_empty">Titre vide</string>
+    <string name="searching">Recherche</string>
+
+</resources>

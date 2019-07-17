@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Search Movie UI/UX</string>
+    <string name="now_playing">الان العب</string>
+    <string name="up_coming">القادمة</string>
+    <string name="search_movie">بحث فيلم</string>
+    <string name="detail_movie">فيلم التفاصيل</string>
+
+    <string name="search">فيلم التفاصيل</string>
+    <string name="title">عنوان</string>
+    <string name="tagline">بطاقة</string>
+    <string name="rating">تقييم</string>
+    <string name="duration">المدة الزمنية</string>
+    <string name="language">لغة</string>
+    <string name="release">إطلاق سراح</string>
+    <string name="budget">ميزانية</string>
+    <string name="overview">نظرة عامة</string>
+    <string name="change_language_settings">غير اللغة</string>
+
+    <string name="failed">فشل</string>
+    <string name="title_empty">العنوان فارغ</string>
+    <string name="searching">البحث</string>
+
+</resources>

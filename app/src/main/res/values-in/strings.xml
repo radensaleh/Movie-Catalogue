@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Search Movie UI/UX</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="search_movie">Pencarian Film</string>
+    <string name="detail_movie">Rincian Film</string>
+
+    <string name="search">Cari</string>
+    <string name="title">Judul</string>
+    <string name="tagline">Tagline</string>
+    <string name="rating">Peringkat</string>
+    <string name="duration">Durasi</string>
+    <string name="language">Bahasa</string>
+    <string name="release">Rilis</string>
+    <string name="budget">Harga</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+
+    <string name="failed">Gagal</string>
+    <string name="title_empty">Judul Kosong</string>
+    <string name="searching">Mencari</string>
+
+</resources>
